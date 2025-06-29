@@ -23,7 +23,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 🌟 Projetos Destacados
-1. [Jhony Santos - Portfólio]
+1. [Jhony Santos - Portfólio](https://jhonywsantos.github.io/JhonySantos/) - Landing Page Profissional Responsiva.  
 2. [Retro Yu-Gi-Oh! Duelo](https://jhonywsantos.github.io/YU-GI-OH/) - jogo de cartas de ação 2D com estética retrô, inspirado no anime clássico de YU-GI-OH. Estética pixel art com paleta limitada
 3.  [CABULOSO'S BURGUER](https://jhonywsantos.github.io/LandingPage-Fast-Food/) - Uma landing page moderna e responsiva para uma rede de fast food, focada em conversão e experiência do usuário.
   
