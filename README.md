@@ -24,7 +24,7 @@
 ![Figma](https://img.shields.io/badge/Figma-bf0b21?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🌟 Projetos Destacados
-1. [Jhony Santos - Social Media](https://jhonywsantos.github.io/JWS/) - Sósia do Linktr.ee  
+1. 
 2. [Lumière - E-Commerce](https://jhonywsantos.github.io/E-Commerce/) - Loja virtual Completa de produtos de beleza natural com qualidade e ingredientes cuidadosamente selecionados, focada em realçar sua beleza natural e promover o bem-estar.
 3. [Retro Yu-Gi-Oh! Duelo](https://jhonywsantos.github.io/YU-GI-OH/) - jogo de cartas de ação 2D com estética retrô, inspirado no anime clássico de YU-GI-OH. Estética pixel art com paleta limitada
 4. [Jhony Santos - Portfólio](https://jhonywsantos.github.io/JhonySantos/) - Landing Page Profissional Responsiva mostrando minhas habilidades técnicas
