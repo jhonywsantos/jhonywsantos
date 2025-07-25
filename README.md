@@ -27,8 +27,7 @@
 1. 
 2. [Lumière - E-Commerce](https://jhonywsantos.github.io/E-Commerce/) - Loja virtual Completa de produtos de beleza natural com qualidade e ingredientes cuidadosamente selecionados, focada em realçar sua beleza natural e promover o bem-estar.
 3. [Retro Yu-Gi-Oh! Duelo](https://jhonywsantos.github.io/YU-GI-OH/) - jogo de cartas de ação 2D com estética retrô, inspirado no anime clássico de YU-GI-OH. Estética pixel art com paleta limitada
-4. [Jhony Santos - Portfólio](https://jhonywsantos.github.io/JhonySantos/) - Landing Page Profissional Responsiva mostrando minhas habilidades técnicas
-5. [Sistema Solar 3D](https://jhonywsantos.github.io/FRONTEND-Project/) - Visualização interativa do sistema solar
+4. [Sistema Solar 3D](https://jhonywsantos.github.io/FRONTEND-Project/) - Visualização interativa do sistema solar
 6. [CABULOSO'S BURGUER](https://jhonywsantos.github.io/LandingPage-Fast-Food/) - Uma landing page moderna e responsiva para uma rede de fast food, focada em conversão e experiência do usuário.
 
 ## 💼 Contato
