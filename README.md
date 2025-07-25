@@ -24,7 +24,7 @@
 ![Figma](https://img.shields.io/badge/Figma-bf0b21?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🌟 Projetos Destacados
-1. 
+1. [Portfólio Profissional](https://jhonywsantos.github.io/JWS/) - Portfólio Profissional destacando minhas habilidades técnicas
 2. [Lumière - E-Commerce](https://jhonywsantos.github.io/E-Commerce/) - Loja virtual Completa de produtos de beleza natural com qualidade e ingredientes cuidadosamente selecionados, focada em realçar sua beleza natural e promover o bem-estar.
 3. [Retro Yu-Gi-Oh! Duelo](https://jhonywsantos.github.io/YU-GI-OH/) - jogo de cartas de ação 2D com estética retrô, inspirado no anime clássico de YU-GI-OH. Estética pixel art com paleta limitada
 4. [Sistema Solar 3D](https://jhonywsantos.github.io/FRONTEND-Project/) - Visualização interativa do sistema solar
