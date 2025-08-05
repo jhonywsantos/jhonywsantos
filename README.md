@@ -1,4 +1,4 @@
-# Jhony W Santos
+# Jhony Wictor Santos
 
 👋 Sou um profissional dedicado e apaixonado por tecnologia, com experiência em desenvolvimento de software e soluções inovadoras.  Graduando em Ciência da Computação na **Universidade Federal de Alagoas (UFAL)**, onde aprimoro minhas habilidades em softs skills, programação, sistemas arquiteturais e tecnologias modernas. Acredito no poder da tecnologia para transformar negócios e melhorar a vida das pessoas. 🚀
 
