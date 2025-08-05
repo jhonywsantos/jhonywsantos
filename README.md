@@ -9,19 +9,17 @@
 </div>
 
 ## 🛠️ Tecnologias Utilizadas
-### Linguagens Principais
-![HTML5](https://img.shields.io/badge/HTML5-d62613?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-6b455b?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-e9e232?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-507231?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-cf0c0f?style=for-the-badge&logo=java&logoColor=white)
 
-### Ferramentas e Plataformas
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-e95832?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-bf0b21?style=for-the-badge&logo=figma&logoColor=white)
+### Linguagens Principais  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Python](https://img.shields.io/badge/Python-507231?style=for-the-badge&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-cf0c0f?style=for-the-badge&logo=java&logoColor=white)
+
+### Ferramentas  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Framer Motion](https://img.shields.io/badge/-FramerMotion-EF007B?style=for-the-badge&logo=framer&logoColor=white)  ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)  
+![Valtio](https://img.shields.io/badge/-Valtio-F05032?style=for-the-badge&logo=valtio&logoColor=white)    ![Fetch API](https://img.shields.io/badge/-FetchAPI-025A8D?style=for-the-badge&logo=api&logoColor=white)  ![Git](https://img.shields.io/badge/Git-e95832?style=for-the-badge&logo=git&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-bf0b21?style=for-the-badge&logo=figma&logoColor=white)
+
+### Plataformas  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ## 🌟 Projetos Destacados
 1. [Portfólio Profissional](https://jhonywsantos.github.io/JWS/) - Portfólio Profissional destacando minhas habilidades técnicas
