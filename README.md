@@ -1,6 +1,6 @@
 # Jhony W Santos
 
-👋 Sou um profissional dedicado e apaixonado por tecnologia, com experiência em desenvolvimento de software e soluções inovadoras. Minha jornada na área de TI me permitiu adquirir conhecimentos valiosos. Atualmente, estou cursando Ciência da Computação na **Universidade Federal de Alagoas (UFAL)**, onde aprimoro minhas habilidades em softs skills, programação, sistemas arquiteturais e tecnologias modernas. Acredito no poder da tecnologia para transformar negócios e melhorar a vida das pessoas. 🚀
+👋 Sou um profissional dedicado e apaixonado por tecnologia, com experiência em desenvolvimento de software e soluções inovadoras.  Graduando em Ciência da Computação na **Universidade Federal de Alagoas (UFAL)**, onde aprimoro minhas habilidades em softs skills, programação, sistemas arquiteturais e tecnologias modernas. Acredito no poder da tecnologia para transformar negócios e melhorar a vida das pessoas. 🚀
 
 ## 📊 GitHub Stats
 <div align="center">
