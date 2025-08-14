@@ -28,7 +28,6 @@ Acredito no poder da tecnologia para transformar negócios e melhorar a vida das
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="60" alt="Vite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="60" alt="TailwindCSS"/>
-  <img src="https://raw.githubusercontent.com/framer/motion/main/.github/assets/logo.svg" height="60" alt="Framer Motion"/>
   <img src="https://threejs.org/files/favicon.ico" height="60" alt="Three.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="VS Code"/>
