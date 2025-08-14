@@ -27,7 +27,6 @@
 3. [Camisetas Personalizadas](https://camiseta-personalizada.vercel.app/) - Aplicativo web interativo para personalizar camisetas em 3D com um design moderno, intuitivo e responsivo.
 4. [Retro Yu-Gi-Oh! Duelo](https://jhonywsantos.github.io/YU-GI-OH/) - jogo de cartas de ação 2D com estética retrô, inspirado no anime clássico de YU-GI-OH. Estética pixel art com paleta limitada
 5. [Sistema Solar 3D](https://jhonywsantos.github.io/FRONTEND-Project/) - Visualização interativa do sistema solar
-6. [CABULOSO'S BURGUER](https://jhonywsantos.github.io/LandingPage-Fast-Food/) - Uma landing page moderna e responsiva para uma rede de fast food, focada em conversão e experiência do usuário.
 
 ## 💼 Contato
 Vamos nos conectar! Acesse: 
