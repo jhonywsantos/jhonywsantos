@@ -39,7 +39,7 @@
 ---
 
 ## 🌟 Projetos Destacados
-1. [Portfólio Profissional](https://jhonywsantos.github.io/JWS/) - Portfólio Profissional destacando minhas habilidades técnicas
+1. [Portfólio Profissional](https://jhonywsantos.github.io/jhony-santos-portfolio/) - Portfólio Profissional destacando minhas habilidades técnicas
 2. [Lumière - E-Commerce](https://jhonywsantos.github.io/E-Commerce/) - Loja virtual completa de produtos de beleza natural com qualidade e ingredientes cuidadosamente selecionados.
 3. [Camisetas Personalizadas](https://camiseta-personalizada.vercel.app/) - Aplicativo web interativo para personalizar camisetas em 3D.
 4. [Retro Yu-Gi-Oh! Duelo](https://jhonywsantos.github.io/YU-GI-OH/) - Jogo de cartas 2D estilo retrô inspirado no anime clássico.
