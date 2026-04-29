@@ -1,16 +1,12 @@
 # Jhony Wictor Santos
 
-👋 Computer Science undergraduate at the **Federal University of Alagoas (UFAL)**.  
-💼 **Freelancer** in **Web Development, Front-End & Graphic Design**.  
+
+👋 Computer Science undergraduate at the **Federal University of Alagoas (UFAL)**.
+
+💼 **Freelancer** in **Web Development, Front-End & Graphic Design**. 
+
+
 🚀 I believe in the power of technology to transform businesses and improve people’s lives.
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
